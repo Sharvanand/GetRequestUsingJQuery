@@ -11,11 +11,20 @@ body{
 
 h1{
     text-align: center;
+    color:rgb(39, 24, 5);
 }
 .content{
-    display: flex;
-    align-items: center;
-    flex-direction: row;
-    justify-content: center;
-    width:1000px;
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+    color:rgb(39, 24, 5);
+}
+#btn{
+    position: relative;
+    width:200px;
+    height: 30px;
+    background-color:burlywood;
+    text-align: center;
+    left:400px;
+
 }
